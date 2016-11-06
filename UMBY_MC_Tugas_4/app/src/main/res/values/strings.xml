@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UMBY - Konversi Suhu</string>
+    <string name="labelInput">Celsius</string>
+    <string name="labelHasil">Fahrenheit</string>
+    <string name="txtInput"></string>
+    <string name="txtHasil">"%.2f"</string>
+    <string name="labelPilih">Pilih</string>
+    <string name="radioGrupPilih"></string>
+    <string name="konversiCF">Celsius ke Fahrenheit</string>
+    <string name="konversiFC">Fahrenheit ke Celsius</string>
+    <string name="btnProses">Konversi</string>
+</resources>
